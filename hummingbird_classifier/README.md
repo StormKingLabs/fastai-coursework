@@ -2,12 +2,12 @@
 
 This project serves as a simple FastAI example for how to apply transfer learning on a new dataset and then to deploy the model via Voila. This app has been adapted from Course 2 of FastAI v4.
 
-For this project, let's focus on hummingbirds since they're [extraordinary little creatures](https://nationalzoo.si.edu/migratory-birds/hummingbirds). Here, our goal is to classify any specicies of hummingbird that's resident in Colorado.  It was interesting to see how quickly we can use transfer learning on some (relatively noisy) Bing Image results to produce a decent working classifier.
+For this project, let's focus on hummingbirds since they're [extraordinary little creatures](https://nationalzoo.si.edu/migratory-birds/hummingbirds). Here, our goal is to classify any species of hummingbird that's resident in Colorado.  It was interesting to see how quickly we can use transfer learning on some (relatively noisy) Bing Image results to produce a decent working classifier.
 
 Audubon [observes the following](https://rockies.audubon.org/blog/habitat-hero/backyard-hummingbirds
 ) about hummingbird species in the Rockies:
 
-> In Wyoming and Colorado there are four main species that you will see. Broad-tailed (Selasphorus platycercus) and Rufous (Selasphorous rufus) Hummingbirds are the most common you will probably see. Less common species are the Calliope (Selasphorus calliope) and Black-chinned (Archilochus alexandri) Hummingbirds.
+> In Wyoming and Colorado there are four main species that you will see. *Broad-tailed* (Selasphorus platycercus) and *Rufous* (Selasphorous rufus) Hummingbirds are the most common you will probably see. Less common species are the *Calliope* (Selasphorus calliope) and *Black-chinned* (Archilochus alexandri) Hummingbirds.
 
 |  |  |  |  |
 |---|---|---|---|
